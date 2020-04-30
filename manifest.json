@@ -1,0 +1,36 @@
+{
+  "name": "Paywall Destroyer",
+  "version": "1.0",
+  "description": "Bypass most paywalls. Click on the extension when a paywall is bringing you down",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "penis.ico",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "penis.ico",
+    "48": "penis.ico",
+    "128": "penis.ico"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "currentTabDOM.js"
+      ]
+    }
+  ]
+}
