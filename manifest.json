@@ -13,9 +13,9 @@
     "default_popup": "popup.html"
   },
   "icons": {
-    "16": "penis.ico",
-    "48": "penis.ico",
-    "128": "penis.ico"
+    "16": "wall.ico",
+    "48": "wall.ico",
+    "128": "wall.ico"
   },
   "permissions": [
     "tabs",
