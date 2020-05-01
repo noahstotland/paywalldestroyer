@@ -9,7 +9,7 @@
     "persistent": false
   },
   "browser_action": {
-    "default_icon": "penis.ico",
+    "default_icon": "wall.ico",
     "default_popup": "popup.html"
   },
   "icons": {
