@@ -28,11 +28,15 @@ This extension works by exploiting a common security vulnerability that occurs w
 This extension simply finds the hidden content (located within the "body" html tag), and displays it within the extension popup.
 
 ### Bypass the following sites' paywalls with this extension:
+[American Banker](https://www.americanbanker.com/)\
+[Barron's](https://www.barrons.com/)\
+[Bloomberg](https://www.bloomberg.com/canada)\
 [Business Insider](https://www.businessinsider.com)\
+[Chicago Tribune](https://www.chicagotribune.com/)\
 [Forbes](https://www.forbes.com)\
 [The Atlantic](https://www.theatlantic.com)\
 [The New York Times](https://www.nytimes.com)\
-Many more sites
+And many more sites that I haven't tested yet
 
 Email me at ultrascissor@gmail.com, or submit a pull request if you want to add to the above list or modify the extension.
 
