@@ -14,7 +14,7 @@ A super simple chrome extension for bypassing article paywalls
 1. Unzip the file and you should have a folder named `paywalldestroyer`.
 1. In Chrome go to the extensions page (`chrome://extensions`).
 1. Enable Developer Mode.
-1. Drag the `paywalldestroyer` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Drag the `paywalldestroyer` folder anywhere on the page to import it (do not delete the folder afterwards), or click "Load Unpacked", and upload the unzipped extension folder.
 
 ### Extension Info
 This extension works by exploiting a common security vulnerability that occurs when the content of a webpage is loaded before the webpage decides to introduce a paywall. In these scenarios, all of the article's content is actually loaded into the browser, but it is hidden from view on the page.
