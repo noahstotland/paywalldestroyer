@@ -17,10 +17,10 @@ This extension was made in one afternoon. For a much more comprehensive paywall 
 ### Installation Instructions
 **Google Chrome**
 1. Download this repo as a ZIP file from Github (click the "clone or download" button and download as zip)
-1. Unzip the file and you should have a folder named `paywalldestroyer`.
+1. Unzip the file and you should have a folder named `paywalldestroyer-master`.
 1. In Chrome go to the extensions page (`chrome://extensions`).
 1. Enable Developer Mode.
-1. Drag the `paywalldestroyer` folder anywhere on the page to import it (do not delete the folder afterwards), or click "Load Unpacked", and upload the unzipped extension folder.
+1. Drag the `paywalldestroyer-master` folder anywhere on the page to import it (do not delete the folder afterwards), or click "Load Unpacked", and upload the unzipped extension folder.
 
 ### Extension Info
 This extension works by exploiting a common security vulnerability that occurs when the content of a webpage is loaded before the webpage decides to introduce a paywall. In these scenarios, all of the article's content is actually loaded into the browser, but it is hidden from view on the page.
