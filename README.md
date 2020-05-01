@@ -7,6 +7,8 @@ A super simple chrome extension for bypassing article paywalls
 - Destroy paywall (full article) displays the entirety of the article body including images and paragraph breaks
 - Destroy paywall (text only) displays only the text of the page
 
+- If nothing happens when you click either button, reload the page and try again only once the page has fully completed loading
+
 #### Note:
 This extension was made in one afternoon. For a much more comprehensive paywall bypassing tool that works as sharply as Warren Buffet's epic brain, check out [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
